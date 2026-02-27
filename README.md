@@ -1,2 +1,11 @@
-# cognitive-forcing-strategy
-Force deliberate thinking to override automatic responses - https://keeprule.com
+# cognitive forcing strategy
+
+Force deliberate thinking to override automatic responses
+
+## Resources
+
+- [KeepRule](https://keeprule.com)
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
